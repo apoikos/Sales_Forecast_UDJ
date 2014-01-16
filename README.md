@@ -1,6 +1,8 @@
 INSEAD MBA Core Course UDJ case
 ---------------------------------------------------------
 
+Test
+
 Sales Forecast Regression Exercise
 ---------------------------------------------------------
 
